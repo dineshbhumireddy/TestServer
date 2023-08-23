@@ -62,3 +62,5 @@
 /drupal
 /.editorconfig
 /.gitattributes
+/.DS_store
+*/.DS_store
